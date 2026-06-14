@@ -1,3 +1,0 @@
-/home/hunter/Documents/Personal-Projects/GLFW-Window/build/CMakeFiles/window.dir
-/home/hunter/Documents/Personal-Projects/GLFW-Window/build/CMakeFiles/edit_cache.dir
-/home/hunter/Documents/Personal-Projects/GLFW-Window/build/CMakeFiles/rebuild_cache.dir
